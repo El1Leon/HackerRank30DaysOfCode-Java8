@@ -9,7 +9,6 @@ import java.util.Scanner; // Import the Scanner class
 
 /**
  *
- * @author Edwar
  */
 
 public class Loops //class is the template or blueprint
